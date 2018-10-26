@@ -22,7 +22,7 @@
     [self.view addSubview:ji];
     ji.frame = CGRectMake(100, 100, 100, 60);
     ji.backgroundColor = [UIColor blueColor];
-    ji.text = @"第六次";
+    ji.text = @"第七次";
 }
 
 
